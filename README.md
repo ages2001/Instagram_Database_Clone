@@ -1,1 +1,1 @@
-# An Instagram Database Clone Project with MySQL
+# Instagram Database Clone Project with MySQL
